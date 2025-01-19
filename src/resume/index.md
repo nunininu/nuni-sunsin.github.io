@@ -36,8 +36,8 @@
 
 ## Education & Qualifications
 
-* Bachelor of Economics (Sep 2004)
-* Dongguk University (2012 - 2011)
+* Bachelor of Economics (Aug 2021)
+* Dongguk University (2012 - 2021)
 
 ## Misc. Information
 
