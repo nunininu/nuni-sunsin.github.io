@@ -9,13 +9,13 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: 'nunininu',
-  description: "I always suffer from programming",
+  title: 'nunininu의 기술블로그',
+  description: "엑셀도 두렵지 않은 개발자입니다",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'nunininu blog' }],
-    ['meta', { property: 'og:description', content: 'Struggle from programming' }],
+    ['meta', { property: 'og:title', content: '젊은 늙은이 nunininu의 기술블로그' }],
+    ['meta', { property: 'og:description', content: '엑셀도 두렵지 않은 개발자입니다' }],
     ['meta', { property: 'og:image', content: 'https://blog.nunininu.shop/images/repository-open-graph-nunininu.jpg' }],
     ['meta', { property: 'og:url', content: 'https://blog.nunininu.shop' }],
   ],

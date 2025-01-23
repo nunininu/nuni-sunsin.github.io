@@ -5,9 +5,10 @@ heroImage: /images/hero.jfif
 heroImageDark: /images/heroDark.webp
 
 
-heroText: 'blog@nunininu.shop'
-title: blog.nunininu
-tagline: Why not? 
+heroText: 'blog.nunininu'
+title: nunininu의 기술블로그
+tagline: 엑셀도 두렵지 않은 개발자입니다 
+
 
 actions:
   - text: RESUME 
